@@ -1,0 +1,2 @@
+[flake8]
+exclude = .pytest_cache/,venv/,db.sqlite3,positions.csv,ships/migrations/
