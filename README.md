@@ -4,7 +4,7 @@ This is a simple API to be used for listing polestar ships and their positions.
 
 # Endpoints:
 * GET /api/ships/ will return all polestar ships
-* GET /api/positions/<imo>/ will return all positions for a ship
+* GET /api/positions/\<imo>/ will return all positions for a ship
 
 
 # Installation:
